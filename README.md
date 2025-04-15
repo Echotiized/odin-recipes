@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic project within the Odin project that will serve to showcase my HTML skills and current proficiency of the language, as well as my ability to use Git and GitHub, specifically with making appropriate commits.
